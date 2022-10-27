@@ -1,2 +1,2 @@
 # MicroStk
-Microservicio que realiza las operaciones CRUD de archivos a una base de datos
+Creación de APIRESTful con conexión a MongoDB y registro de ciudades con campos clave y descripción atreves de Postman
